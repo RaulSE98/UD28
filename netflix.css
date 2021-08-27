@@ -1,0 +1,145 @@
+body{
+    background-color: black;
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+
+nav{
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-between;
+    align-content: center;
+    float: left;
+    color: white;
+    padding: 10px;
+}
+
+a{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+i{
+    margin-left: 10px;
+    margin-right: 10px;
+    float: right;
+}
+
+div{
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-items: flex-start;
+}
+
+.icon{
+    display: flex;
+    float: right;
+    align-items: right;
+    color: white;
+}
+
+.container{
+    width: 1800px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1{
+    color: white;
+}
+
+.s1{
+    margin-left: 40px;
+    width: 200px;
+    height: 200px;
+    background-image: url("../UD28-Tablas_DIV/imagenes/Miserables.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.s2{
+    margin-left: 10px;
+    width: 200px;
+    height: 200px;
+    background-image: url("../UD28-Tablas_DIV/imagenes/Hobbit.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.s3{
+    margin-left: 10px;
+    width: 200px;
+    height: 200px;
+    background-image: url("../UD28-Tablas_DIV/imagenes/Creed.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.s4{
+    margin-left: 10px;
+    width: 200px;
+    height: 200px;
+    background-image: url("../UD28-Tablas_DIV/imagenes/VanHelsing.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.s5{
+    margin-left: 10px;
+    margin-right: 40px;
+    width: 200px;
+    height: 200px;
+    background-image: url("../UD28-Tablas_DIV/imagenes/Spider-Man.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.s6{
+    margin-left: 10px;
+    margin-left: 40px;
+    width: 200px;
+    height: 200px;
+    background-image: url("../UD28-Tablas_DIV/imagenes/Comoconoci.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.s7{
+    margin-left: 10px;
+    width: 200px;
+    height: 200px;
+    background-image: url("../UD28-Tablas_DIV/imagenes/BreakingBad.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.s8{
+    margin-left: 10px;
+    width: 200px;
+    height: 200px;
+    background-image: url("../UD28-Tablas_DIV/imagenes/TheWitcher.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.s9{
+    margin-left: 10px;
+    width: 200px;
+    height: 200px;
+    background-image: url("../UD28-Tablas_DIV/imagenes/Vikings.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.s10{
+    margin-left: 10px;
+    margin-right: 40px;
+    width: 200px;
+    height: 200px;
+    background-image: url("../UD28-Tablas_DIV/imagenes/Sabrina.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
